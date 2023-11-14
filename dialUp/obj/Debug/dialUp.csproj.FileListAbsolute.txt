@@ -1,0 +1,10 @@
+E:\codici\dialUp\dialUp\bin\Debug\dialUp.exe.config
+E:\codici\dialUp\dialUp\bin\Debug\dialUp.exe
+E:\codici\dialUp\dialUp\bin\Debug\dialUp.pdb
+E:\codici\dialUp\dialUp\obj\Debug\dialUp.csproj.AssemblyReference.cache
+E:\codici\dialUp\dialUp\obj\Debug\dialUp.Properties.Resources.resources
+E:\codici\dialUp\dialUp\obj\Debug\dialUp.csproj.GenerateResource.cache
+E:\codici\dialUp\dialUp\obj\Debug\dialUp.csproj.CoreCompileInputs.cache
+E:\codici\dialUp\dialUp\obj\Debug\dialUp.exe
+E:\codici\dialUp\dialUp\obj\Debug\dialUp.pdb
+E:\codici\dialUp\dialUp\obj\Debug\dialUp.Form1.resources
